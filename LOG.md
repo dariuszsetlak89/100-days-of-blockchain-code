@@ -1,0 +1,107 @@
+# 100 Days Of Blockchain Code - Log
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) -->
+
+<!-- ### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
+
+
+<!-- ### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+
+### Day 1/100: 12.09.22, Monday
+**Info**: Code Time 5h
+- I prepared to take up the challenge. I posted a public declaration on Twitter about the start of the challenge and forked this Github repository.
+
+**Today's progress**:
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14
+- Started my first portfolio project: Ethereum Token Wallet Dapp
+- Started my second portfolio project: Ethereum Games Dapp
+
+**Links**: 
+1. Public declaration Tweet: [Declaration Tweet](https://twitter.com/kprogramista89/status/1569437751002697729?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1569444656991322113?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)
+
+---
+
+### Day 2/100: 13.09.22, Tuesday
+**Info**: Code Time 3h
+
+**Today's progress**:
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14
+- Project: Ethereum Token Wallet Dapp - roadmap and project setup
+- Project: Ethereum Games Dapp - roadmap and project setup
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1569807982065782785?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)
+
+---
+
+### Day 3/100: 14.09.22, Wednesday
+**Info**: Code Time 5h
+
+**Today's progress**:
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14
+- Project: Tokens & NFTs Dapp
+  - renamed from Ethereum Token wallet Dapp - dapp will contain many functionalities for tokens and NFTs, not only a wallet
+  - wrote Smart Contract to generate new ERC20 token 
+- Project: Snake Game Dapp
+  - renamed from Ethereum games Dapp - for now I will focus on one snake game in my dapp, maybe I will add more in the future
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1570156698815565824?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)
+
+---
+
+### Day 4/100: 15.09.22, Thursday
+**Info**: Code Time 8h (active 6h)
+- I installed VS Code extension Code Time, to easily monitor my daily code time and active code time
+
+**Today's progress**:
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14 finished! In this lesson I prepared 3 types of NFTs and deployed them on Goerli Testnet network
+  - Link to BasicNFT: [Dogie [DOG]](https://goerli.etherscan.io/token/0x95854c1e5affce926426d85fe582bd90cb4e0bd4)
+  - Link to Random IPFS NFT: [IPFS NFT [RIN]](https://goerli.etherscan.io/token/0xd7685b88253a9535128372f4e79c0d488d95a837)
+  - Link to Dynamic SVG NFT: [Dynamic SVG NFT [DSN]](https://goerli.etherscan.io/token/0xb09d609095d12d46d19c4a6cb95297b9dee2cd6e)
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1570533147229683713?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 14: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)
+
+---
+
+### Day 5/100: 16.09.22, Friday
+**Info**: Code Time 12h (active 6h)
+
+**Today's progress**:
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15 NFT Marketplace started!
+- Prepared two Github template repositories to help me (and others) easily start new Hardhat and Next.js project. I made them public, so feel free to use it, if you need
+  - Link to Hardhat Template repository: [hardhat-template](https://github.com/dariuszsetlak89/hardhat-template)
+  - Link to Next.js Template repository: [nextjs-template](https://github.com/dariuszsetlak89/nextjs-template)
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1570889673014415360?s=20&t=Hwn77_Sv87ICxN-BnpH_lw)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
