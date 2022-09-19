@@ -130,3 +130,19 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1571629296225226752?s=20&t=y4KhPHUIYG6H7Jadqy2F_Q)
 2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
+
+---
+
+### Day 8/100: 19.09.22, Monday
+**Info**: Code Time 7h (active 5h)
+
+**Progress**:
+- started learning to solve algorithmic programming problems on HackerRank platform
+- started learning Web3 on LearnWeb3 platform - Freshman path
+- Continued with freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15 NFT Marketplace
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1571983149298778113?s=20&t=rg-ZWHTajAGSE-ISZV9kPg)
+2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+3. LearnWeb3 platform: [LearnWeb3](https://learnweb3.io/)
+4. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
