@@ -158,3 +158,20 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1572385085231439872?s=20&t=fPK75N1_zFc7D8pM7YuBmA)
 2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
+
+---
+
+### Day 10/100: 21.09.22, Tuesday
+**Info**: Code Time 7h (active 4h)
+
+**Progress**:
+- code on HackerRank platform
+  - started 10DaysOfJavaScript challenge - d1/10
+  - started 30DaysOfCode challenge - d1/30
+- started to code on Leet Code platform
+- continue with fcc Patrick Collins Blockchain Solidity course - lesson15 NFT Marketplace finished
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1572898456804667392?s=20&t=vnlOWRqOKYpO87lwsQGqEQ)
+2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
+
