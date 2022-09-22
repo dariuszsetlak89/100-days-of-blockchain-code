@@ -168,10 +168,30 @@
 - code on HackerRank platform
   - started 10DaysOfJavaScript challenge - d1/10
   - started 30DaysOfCode challenge - d1/30
-- started to code on Leet Code platform
+- started to code on Leet Code platform - Beginners Guide
 - continue with fcc Patrick Collins Blockchain Solidity course - lesson15 NFT Marketplace finished
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1572898456804667392?s=20&t=vnlOWRqOKYpO87lwsQGqEQ)
-2. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
+2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+3. LeetCode platform: [LeetCode](https://leetcode.com/)
+4. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=85023s)
+
+---
+
+### Day 11/100: 22.09.22, Tuesday
+**Info**: Code Time 6h (active 4h)
+
+**Progress**:
+- HackerRank 10DaysOfJavaScript challenge - d2/10
+- HackerRank 30DaysOfCode challenge - d2/30
+- LeetCode Getting Started
+- continue with fcc Patrick Collins Blockchain Solidity course - lesson16 Hardhat Upgrades finished
+- Portfolio project Snake Game Dapp - d1/10: Smart contracts for tokens SNAKE and FRUIT
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1573091501701226499?s=20&t=yMgQLVwpCpH3plkru_CkTQ)
+2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+3. LeetCode platform: [LeetCode](https://leetcode.com/)
+4. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 15: [freeCodeCamp Blockchain Solidity Course](https://youtu.be/gyMwXuJrbJQ?t=103993)
 
