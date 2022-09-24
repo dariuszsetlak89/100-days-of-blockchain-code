@@ -161,7 +161,7 @@
 
 ---
 
-### Day 10/100: 21.09.22, Tuesday
+### Day 10/100: 21.09.22, Wednesday
 **Info**: Code Time 7h (active 4h)
 
 **Progress**:
@@ -179,7 +179,7 @@
 
 ---
 
-### Day 11/100: 22.09.22, Tuesday
+### Day 11/100: 22.09.22, Thursday
 **Info**: Code Time 6h (active 4h)
 
 **Progress**:
@@ -197,7 +197,7 @@
 
 ---
 
-### Day 12/100: 23.09.22, Tuesday
+### Day 12/100: 23.09.22, Friday
 **Info**: Code Time 3h (active 2h)
 
 **Progress**:
@@ -205,6 +205,7 @@
 - HackerRank 30DaysOfCode challenge - d2
 - LeetCode Getting Started
 - continue with fcc Patrick Collins Blockchain Solidity course - lesson17 Hardhat DAOs
+- - reading OpenZeppelin documentation
 - Portfolio project Snake Game Dapp - d2/10: Smart contracts for minting NFT awards
 
 **Links**: 
@@ -212,4 +213,25 @@
 2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
 3. LeetCode platform: [LeetCode](https://leetcode.com/)
 4. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 17: [freeCodeCamp Blockchain Solidity Course]([https://youtu.be/gyMwXuJrbJQ?t=103993](https://www.youtube.com/watch?v=gyMwXuJrbJQ))
+
+---
+
+### Day 13/100: 24.09.22, Saturday
+**Info**: Code Time 6h (active 4h)
+
+**Progress**:
+- HackerRank 10DaysOfJavaScript challenge - d3
+- HackerRank 30DaysOfCode challenge - d3
+- LeetCode Getting Started
+- continue with fcc Patrick Collins Blockchain Solidity course - lesson17 Hardhat DAOs finished
+- reading OpenZeppelin documentation
+- Portfolio project Snake Game Dapp - d3/10: Main smart contract
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1573796503323279361?s=20&t=ExQdoWI0S0DWEa_gA7rYtg)
+2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+3. LeetCode platform: [LeetCode](https://leetcode.com/)
+4. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
+5. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 17: [freeCodeCamp Blockchain Solidity Course]([https://youtu.be/gyMwXuJrbJQ?t=103993](https://www.youtube.com/watch?v=gyMwXuJrbJQ))
+
 
