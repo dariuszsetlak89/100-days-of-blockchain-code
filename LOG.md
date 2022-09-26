@@ -252,5 +252,25 @@
 2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
 3. LeetCode platform: [LeetCode](https://leetcode.com/)
 4. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
-5. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)
+5. freeCodeCamp Patrick Collins Blockchain Solidity Youtube course - Lesson 18: - [freeCodeCamp Blockchain Solidity Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)
+
+---
+
+### Day 15/100: 26.09.22, Monday
+**Info**: Code Time 3h (active 3h)
+
+**Progress**:
+- HackerRank 10DaysOfJavaScript challenge - d5
+- HackerRank 30DaysOfCode challenge - d5
+- LeetCode Getting Started
+- start to learn code Solidity on Solidity By Example website and Youtube channel
+- reading OpenZeppelin and Hardhat documentation
+- portfolio project Snake Game Dapp - d5/10: Smart Contracts deployment
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1574514616767762432?s=20&t=3KO0abR9_glRBJhI6L7fxQ)
+2. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+3. LeetCode platform: [LeetCode](https://leetcode.com/)
+4. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
+5. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
