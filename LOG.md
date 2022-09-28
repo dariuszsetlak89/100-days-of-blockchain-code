@@ -277,7 +277,7 @@
 
 ---
 
-### Day 16/100: 27.09.22, Monday
+### Day 16/100: 27.09.22, Tuesday
 **Info**: Code Time 6h (active 4h)
 
 **Progress**:
@@ -290,6 +290,27 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1574859422215639055?s=20&t=c3IKaETb5pZWAwU5h6rhcQ)
+2. LeetCode platform: [LeetCode](https://leetcode.com/)
+3. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+4. Hardhat documentation: [Hardhat](https://hardhat.org/docs)
+5. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
+6. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 17/100: 28.09.22, Wednesday
+**Info**: Code Time 5h (active 4h)
+
+**Progress**:
+- LeetCode Getting Started finished
+- HackerRank 10DaysOfJavaScript challenge - d7
+- HackerRank 30DaysOfCode challenge - d7
+- learn to code Solidity from Solidity By Example
+- reading Hardhat and OpenZeppelin documentation
+- portfolio project Snake Game Dapp - d7/10
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1575251183404519424?s=20&t=sUookY7Xs49sAjzjIje08A)
 2. LeetCode platform: [LeetCode](https://leetcode.com/)
 3. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
 4. Hardhat documentation: [Hardhat](https://hardhat.org/docs)
