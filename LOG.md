@@ -317,4 +317,23 @@
 5. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
 6. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
 
+### Day 18/100: 29.09.22, Thursday
+**Info**: Code Time 10h (active 7h)
+
+**Progress**:
+- LeetCode: Coding Interview Strategy - Start
+- HackerRank 10DaysOfJavaScript challenge - d8
+- HackerRank 30DaysOfCode challenge - d8
+- learn to code Solidity from Solidity By Example
+- reading Hardhat and OpenZeppelin documentation
+- portfolio project Snake Game Dapp - d8/10
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1575604523179343872?s=20&t=qfqR_jQsPsz9LtolWP3_Hw)
+2. LeetCode platform: [LeetCode](https://leetcode.com/)
+3. HackerRank platform: [HackerRank](https://www.hackerrank.com/)
+4. Hardhat documentation: [Hardhat](https://hardhat.org/docs)
+5. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
+6. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
