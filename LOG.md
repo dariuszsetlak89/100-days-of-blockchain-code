@@ -367,3 +367,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1576391340505829377?s=20&t=Ikm---ltmuHoTlyuvMH-HQ)
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 21/100: 02.10.22, Sunday
+**Info**: Code Time 3h (active 2h)
+
+**Progress**:
+- learn to code Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d11/10
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1576669533984542720?s=20&t=L3NRGd7mdqT5WYPCy0GLTA)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
