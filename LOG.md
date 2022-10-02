@@ -355,3 +355,15 @@
 3. OpenZeppelin documentation: [OpenZeppelin](https://docs.openzeppelin.com/)
 4. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
+
+### Day 20/100: 01.10.22, Saturday
+**Info**: Code Time 10h (active 8h)
+
+**Progress**:
+- learn to code Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d10/10
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1576391340505829377?s=20&t=Ikm---ltmuHoTlyuvMH-HQ)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
