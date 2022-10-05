@@ -383,7 +383,7 @@
 
 ---
 
-### Day 22/100: 03.10.22, Monday
+### Day 23/100: 03.10.22, Monday
 **Info**: Code Time 10h (active 8h)
 
 **Progress**:
@@ -397,5 +397,21 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1577191746672680960?s=20&t=Nq0QzTgEYlgM6k4AAkC5mQ)
 2. LeetCode: [75 Study Plan](https://leetcode.com/study-plan/leetcode-75/?progress=xpn52b8j)
 3. HackerRank: [3 Months Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
-4. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+4. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
+5. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 23/100: 04.10.22, Tuesday
+**Info**: Code Time 8h (active 6h)
+
+**Progress**:
+- learn to code in TypeScript
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d13
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1577557505374289924?s=20&t=1msoe6P1-Pjo58XfgxnS8A)
+2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
+3. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
