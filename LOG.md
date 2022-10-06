@@ -415,3 +415,17 @@
 2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
 3. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
+
+### Day 24/100: 05.10.22, Tuesday
+**Info**: Code Time 12h (active 10h)
+
+**Progress**:
+- learn to code in TypeScript
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d14
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1577866878877310976?s=20&t=gKmNJUmi19GJSZJpCW3B6w)
+2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
+3. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
