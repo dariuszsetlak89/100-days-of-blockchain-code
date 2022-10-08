@@ -417,7 +417,7 @@
 
 ---
 
-### Day 24/100: 05.10.22, Tuesday
+### Day 24/100: 05.10.22, Wednesday
 **Info**: Code Time 12h (active 10h)
 
 **Progress**:
@@ -432,7 +432,7 @@
 
 ---
 
-### Day 25/100: 06.10.22, Tuesday
+### Day 25/100: 06.10.22, Thursday
 **Info**: Code Time 11h (active 10h)
 
 **Progress**:
@@ -442,3 +442,14 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1578160772525326338?s=20&t=HFT-S-TGeLDwrKchr1mPPQ)
 2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
+
+---
+
+### Day 26/100: 07.10.22, Friday
+**Info**: Code Time 5h (active 5h)
+
+**Progress**:
+- portfolio project Snake Game Dapp - d16
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1578555398264881152?s=20&t=RhlKToMJpwet2LPj8_nRwQ)
