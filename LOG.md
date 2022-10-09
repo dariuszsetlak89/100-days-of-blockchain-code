@@ -467,3 +467,14 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1578878509119787008?s=20&t=eCKjizEUJM-3cvbJlGLlOQ)
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
+
+### Day 28/100: 09.10.22, Wednesday
+**Info**: Code Time 10h (active 9h)
+
+**Progress**:
+- portfolio project Snake Game Dapp - d18
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1579249331554877440?s=20&t=4lnc1cc3kyA3cDcHeJ8eVg)
+
