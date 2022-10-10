@@ -456,7 +456,7 @@
 
 ---
 
-### Day 27/100: 08.10.22, Wednesday
+### Day 27/100: 08.10.22, Saturday
 **Info**: Code Time 7h (active 7h)
 
 **Progress**:
@@ -469,7 +469,7 @@
 
 ---
 
-### Day 28/100: 09.10.22, Wednesday
+### Day 28/100: 09.10.22, Sunday
 **Info**: Code Time 10h (active 9h)
 
 **Progress**:
@@ -477,4 +477,19 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1579249331554877440?s=20&t=4lnc1cc3kyA3cDcHeJ8eVg)
+
+---
+
+### Day 29/100: 10.10.22, Monday
+**Info**: Code Time 9h (active 7h)
+
+**Progress**:
+- learn to code in TypeScript
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d19
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1579607562265440259?s=20&t=n1AzH3w_Vre3eJoXoTWNyQ)
+2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
+3. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
