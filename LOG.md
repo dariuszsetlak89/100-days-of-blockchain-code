@@ -493,3 +493,14 @@
 2. TypeScript course: [Jak zacząć programować? - TypeScript](https://www.youtube.com/watch?v=5CBZ6DymX0Y)
 3. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
+
+### Day 30/100: 11.10.22, Tuesday
+**Info**: Code Time 8h (active 7h)
+
+**Progress**:
+- portfolio project Snake Game Dapp - d20
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1579967137887977484?s=20&t=CQDZOIyo1CYzfzo9icwKLA)
+
