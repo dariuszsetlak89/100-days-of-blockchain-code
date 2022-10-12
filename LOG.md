@@ -499,8 +499,23 @@
 **Info**: Code Time 8h (active 7h)
 
 **Progress**:
+- learn to code in Solidity from Solidity By Example
 - portfolio project Snake Game Dapp - d20
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1579967137887977484?s=20&t=CQDZOIyo1CYzfzo9icwKLA)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 31/100: 12.10.22, Wednesday
+**Info**: Code Time 9h (active 9h)
+
+**Progress**:
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d21: front-end application in Next.js started
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1580330946292633600?s=20&t=qFiDk6i8UAnI8VlFaM6mDQ)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
