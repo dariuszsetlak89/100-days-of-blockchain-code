@@ -533,3 +533,17 @@
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 3. Testing framework Mocha: [Mocha](https://mochajs.org/)
 4. Assertion library Chai: [Chai](https://www.chaijs.com/)
+
+### Day 33/100: 14.10.22, Friday
+**Info**: Code Time 8h (active 7h)
+
+**Progress**:
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d22: unit tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1581125349047668737?s=20&t=MzC0hkl8GcuStnCvDg2DSw)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+3. Testing framework Mocha: [Mocha](https://mochajs.org/)
+4. Assertion library Chai: [Chai](https://www.chaijs.com/)
+
