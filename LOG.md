@@ -565,3 +565,14 @@
 3. Testing framework Mocha: [Mocha](https://mochajs.org/)
 4. Assertion library Chai: [Chai](https://www.chaijs.com/)
 
+---
+
+### Day 35/100: 16.10.22, Saturday
+**Info**: Code Time 14h (active 13h)
+
+**Progress**:
+- reading solidity-coverage plugin documentation
+- portfolio project Snake Game Dapp - d25: staging tests finished
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1581740464415584256?s=20&t=zNX5zb5LVYhNZ4fV_EaxVw)
