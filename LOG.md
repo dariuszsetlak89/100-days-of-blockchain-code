@@ -567,7 +567,7 @@
 
 ---
 
-### Day 35/100: 16.10.22, Saturday
+### Day 35/100: 16.10.22, Sunday
 **Info**: Code Time 14h (active 13h)
 
 **Progress**:
@@ -576,3 +576,16 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1581740464415584256?s=20&t=zNX5zb5LVYhNZ4fV_EaxVw)
+
+---
+
+### Day 36/100: 17.10.22, Sunday
+**Info**: Code Time 8h (active 8h)
+
+**Progress**:
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d25: smart contracts and tests improvements
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582201709723799553?s=20&t=cC-yD2cAD_vQkW2cQRInBg)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
