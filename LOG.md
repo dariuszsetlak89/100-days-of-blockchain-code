@@ -183,11 +183,11 @@
 **Info**: Code Time 6h (active 4h)
 
 **Progress**:
-- HackerRank 10DaysOfJavaScript challenge - d1
-- HackerRank 30DaysOfCode challenge - d1
+- HackerRank 10DaysOfJavaScript challenge - START
+- HackerRank 30DaysOfCode challenge - START
 - LeetCode Getting Started
 - continue with fcc Patrick Collins Blockchain Solidity course - lesson16 Hardhat Upgrades finished
-- portfolio project Snake Game Dapp - d1/10
+- portfolio project Snake Game Dapp - START d1
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1573091501701226499?s=20&t=yMgQLVwpCpH3plkru_CkTQ)
@@ -201,12 +201,12 @@
 **Info**: Code Time 3h (active 2h)
 
 **Progress**:
-- HackerRank 10DaysOfJavaScript challenge - d2
-- HackerRank 30DaysOfCode challenge - d2
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - LeetCode Getting Started
 - continue with fcc Patrick Collins Blockchain Solidity course - lesson17 Hardhat DAOs
 - reading OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d2/10
+- portfolio project Snake Game Dapp - d2
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1573460676667899919?s=20&t=uqnqjqNLcI7NiPT4DAfiMA)
@@ -220,12 +220,12 @@
 **Info**: Code Time 6h (active 4h)
 
 **Progress**:
-- HackerRank 10DaysOfJavaScript challenge - d3
-- HackerRank 30DaysOfCode challenge - d3
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - LeetCode Getting Started
 - continue with fcc Patrick Collins Blockchain Solidity course - lesson17 Hardhat DAOs finished
 - reading OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d3/10
+- portfolio project Snake Game Dapp - d3
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1573796503323279361?s=20&t=ExQdoWI0S0DWEa_gA7rYtg)
@@ -240,12 +240,12 @@
 **Info**: Code Time 4h (active 2h)
 
 **Progress**:
-- HackerRank 10DaysOfJavaScript challenge - d4
-- HackerRank 30DaysOfCode challenge - d4
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - LeetCode Getting Started
 - freeCodeCamp Patrick Collins Blockchain Solidity YouTube 32 hours course - FINISHED!!!
 - reading OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d4/10
+- portfolio project Snake Game Dapp - d4
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1574166435982516224?s=20&t=2WLYIO1EpYD4i3b5qoIkcQ)
@@ -260,12 +260,12 @@
 **Info**: Code Time 3h (active 3h)
 
 **Progress**:
-- HackerRank 10DaysOfJavaScript challenge - d5
-- HackerRank 30DaysOfCode challenge - d5
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - LeetCode Getting Started
 - start to learn code Solidity on Solidity By Example website and Youtube channel
 - reading Hardhat and OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d5/10
+- portfolio project Snake Game Dapp - d5
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1574514616767762432?s=20&t=3KO0abR9_glRBJhI6L7fxQ)
@@ -282,11 +282,11 @@
 
 **Progress**:
 - LeetCode Getting Started
-- HackerRank 10DaysOfJavaScript challenge - d6
-- HackerRank 30DaysOfCode challenge - d6
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - learn to code Solidity from Solidity By Example
 - reading Hardhat and OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d6/10
+- portfolio project Snake Game Dapp - d6
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1574859422215639055?s=20&t=c3IKaETb5pZWAwU5h6rhcQ)
@@ -303,11 +303,11 @@
 
 **Progress**:
 - LeetCode Getting Started finished
-- HackerRank 10DaysOfJavaScript challenge - d7
-- HackerRank 30DaysOfCode challenge - d7
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - learn to code Solidity from Solidity By Example
 - reading Hardhat and OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d7/10
+- portfolio project Snake Game Dapp - d7
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1575251183404519424?s=20&t=sUookY7Xs49sAjzjIje08A)
@@ -324,11 +324,11 @@
 
 **Progress**:
 - LeetCode: Coding Interview Strategy - Start
-- HackerRank 10DaysOfJavaScript challenge - d8
-- HackerRank 30DaysOfCode challenge - d8
+- HackerRank 10DaysOfJavaScript challenge
+- HackerRank 30DaysOfCode challenge
 - learn to code Solidity from Solidity By Example
 - reading Hardhat and OpenZeppelin documentation
-- portfolio project Snake Game Dapp - d8/10
+- portfolio project Snake Game Dapp - d8
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1575604523179343872?s=20&t=qfqR_jQsPsz9LtolWP3_Hw)
@@ -347,7 +347,7 @@
 - LeetCode: Coding Interview Strategy - finished
 - learn to code Solidity from Solidity By Example
 - reading Hardhat adocumentation
-- portfolio project Snake Game Dapp - d9/10
+- portfolio project Snake Game Dapp - d9
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1575969972417097730?s=20&t=-VsDMrmEMm_Yuj8fhdixtw)
@@ -362,7 +362,7 @@
 
 **Progress**:
 - learn to code Solidity from Solidity By Example
-- portfolio project Snake Game Dapp - d10/10
+- portfolio project Snake Game Dapp - d10
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1576391340505829377?s=20&t=Ikm---ltmuHoTlyuvMH-HQ)
@@ -375,7 +375,7 @@
 
 **Progress**:
 - learn to code Solidity from Solidity By Example
-- portfolio project Snake Game Dapp - d11/10
+- portfolio project Snake Game Dapp - d11
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1576669533984542720?s=20&t=L3NRGd7mdqT5WYPCy0GLTA)
@@ -541,7 +541,7 @@
 
 **Progress**:
 - learn to code in Solidity from Solidity By Example
-- portfolio project Snake Game Dapp - d22: unit tests
+- portfolio project Snake Game Dapp - d23: unit tests
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1581125349047668737?s=20&t=MzC0hkl8GcuStnCvDg2DSw)
@@ -584,8 +584,21 @@
 
 **Progress**:
 - learn to code in Solidity from Solidity By Example
-- portfolio project Snake Game Dapp - d25: smart contracts and tests improvements
+- portfolio project Snake Game Dapp - d26: smart contracts and tests improvements
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582201709723799553?s=20&t=cC-yD2cAD_vQkW2cQRInBg)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 37/100: 18.10.22, Sunday
+**Info**: Code Time 6h (active 6h)
+
+**Progress**:
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d27: more staging tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582645676550148097?s=20&t=ndIKUDLT3l_xx63o6uo-lQ)
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
