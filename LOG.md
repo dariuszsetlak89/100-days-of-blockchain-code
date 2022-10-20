@@ -579,7 +579,7 @@
 
 ---
 
-### Day 36/100: 17.10.22, Sunday
+### Day 36/100: 17.10.22, Monday
 **Info**: Code Time 8h (active 8h)
 
 **Progress**:
@@ -592,7 +592,7 @@
 
 ---
 
-### Day 37/100: 18.10.22, Sunday
+### Day 37/100: 18.10.22, Tuesday
 **Info**: Code Time 6h (active 6h)
 
 **Progress**:
@@ -602,3 +602,17 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582645676550148097?s=20&t=ndIKUDLT3l_xx63o6uo-lQ)
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
+---
+
+### Day 38/100: 19.10.22, Wednesday
+**Info**: Code Time 8 (active 9h)
+
+**Progress**:
+- learn to code in Solidity from Solidity By Example
+- portfolio project Snake Game Dapp - d28: Solidity back-end completed, start building front-end application in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582994710158639105?s=20&t=mWN7U8waJeHVAbSy3cXapw)
+2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
+
