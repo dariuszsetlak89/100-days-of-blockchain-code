@@ -616,3 +616,16 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1582994710158639105?s=20&t=mWN7U8waJeHVAbSy3cXapw)
 2. Solidity By Example website: [Solidity By Example](https://solidity-by-example.org/)
 
+---
+
+### Day 39/100: 20.10.22, Thursday
+**Info**: Code Time 3 (active 2h)
+
+**Progress**:
+- learn Next.js from Youtube tutorial
+- portfolio project Snake Game Dapp - d29: front-end application in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1583217311385018368?s=20&t=fXnVnGKdY_M7uM2yc5rNrw)
+2. Next.js Youtube tutorial: [Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
+
