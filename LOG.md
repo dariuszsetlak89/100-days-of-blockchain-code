@@ -627,5 +627,18 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1583217311385018368?s=20&t=fXnVnGKdY_M7uM2yc5rNrw)
-2. Next.js Youtube tutorial: [Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
+2. Samuraj Programowania Next.js Youtube tutorial: [Tutorial1](https://www.youtube.com/watch?v=3df3OAxPevo), [Tutorial2](https://www.youtube.com/watch?v=AA0epqPigJQ)
+3. Codedamn Next.js Youtube tutorial: [Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
 
+---
+
+### Day 40/100: 21.10.22, Friday
+**Info**: Code Time 10 (active 7h)
+
+**Progress**:
+- learn Next.js from Youtube tutorials
+- portfolio project Snake Game Dapp - d30: Next.js app: layout, site navigation and visual appearance
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1583736367800254464?s=20&t=um8vvSitFhecBH4oyNZQ9Q)
+2. The Net Ninja Next.js Youtube tutorial: [Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
