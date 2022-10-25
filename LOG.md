@@ -606,7 +606,7 @@
 ---
 
 ### Day 38/100: 19.10.22, Wednesday
-**Info**: Code Time 8 (active 9h)
+**Info**: Code Time 8h (active 9h)
 
 **Progress**:
 - learn to code in Solidity from Solidity By Example
@@ -619,7 +619,7 @@
 ---
 
 ### Day 39/100: 20.10.22, Thursday
-**Info**: Code Time 3 (active 2h)
+**Info**: Code Time 3h (active 2h)
 
 **Progress**:
 - learn Next.js from Youtube tutorial
@@ -633,7 +633,7 @@
 ---
 
 ### Day 40/100: 21.10.22, Friday
-**Info**: Code Time 10 (active 7h)
+**Info**: Code Time 10h (active 7h)
 
 **Progress**:
 - learn Next.js from Youtube tutorials
@@ -646,7 +646,7 @@
 ---
 
 ### Day 41/100: 22.10.22, Saturday
-**Info**: Code Time 13 (active 11h)
+**Info**: Code Time 13h (active 11h)
 
 **Progress**:
 - learn Next.js from Youtube tutorials
@@ -659,10 +659,25 @@
 ---
 
 ### Day 42/100: 23.10.22, Sunday
-**Info**: Code Time 8 (active 8h)
+**Info**: Code Time 8h (active 8h)
 
 **Progress**:
 - portfolio project Snake Game Dapp - d32: Next.js app: project internationalization finished
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1584169342417371138?s=20&t=WB1ndm2l3jgRfLeHCZnhow)
+
+---
+
+### Day 43/100: 24.10.22, Tuesday
+**Info**: Code Time 5h (active 2h)
+
+**Progress**:
+- The Net Ninja tutorial: HTML & CSS Crash Course
+- The Net Ninja tutorial: Full Modern React Tutorial
+- portfolio project Snake Game Dapp - d33: front-end & back-end communication done
+
+**Links**: 
+1. Daily Tweet: [Tweet]()
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
