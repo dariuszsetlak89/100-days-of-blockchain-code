@@ -669,7 +669,7 @@
 
 ---
 
-### Day 43/100: 24.10.22, Tuesday
+### Day 43/100: 24.10.22, Monday
 **Info**: Code Time 5h (active 2h)
 
 **Progress**:
@@ -678,6 +678,21 @@
 - portfolio project Snake Game Dapp - d33: front-end & back-end communication done
 
 **Links**: 
-1. Daily Tweet: [Tweet]()
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1584810555646189568?s=20&t=NienE5bX_Z0wCVtMSzEtoQ)
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 44/100: 24.10.22, Tuesday
+**Info**: Code Time 6h (active 5h)
+
+**Progress**:
+- The Net Ninja tutorial: HTML & CSS Crash Course
+- The Net Ninja tutorial: Full Modern React Tutorial
+- portfolio 2nd project NFT Marketplace - d1 START: Solidity smart contract
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585052470627430401?s=20&t=NienE5bX_Z0wCVtMSzEtoQ)
 2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
