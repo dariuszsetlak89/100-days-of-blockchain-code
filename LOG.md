@@ -684,7 +684,7 @@
 
 ---
 
-### Day 44/100: 24.10.22, Tuesday
+### Day 44/100: 25.10.22, Tuesday
 **Info**: Code Time 6h (active 5h)
 
 **Progress**:
@@ -694,5 +694,20 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585052470627430401?s=20&t=NienE5bX_Z0wCVtMSzEtoQ)
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 45/100: 26.10.22, Wednesday
+**Info**: Code Time 3h (active 3h)
+
+**Progress**:
+- The Net Ninja tutorials: HTML & CSS Crash Course FINISHED
+- The Net Ninja tutorials: Full Modern React Tutorial
+- portfolio 2nd project NFT Marketplace - d2: deployment scripts, unit and staging tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585372178387607552?s=20&t=fFd-BcyCv4d0FRLzFkWNpw)
 2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
