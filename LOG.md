@@ -711,3 +711,18 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585372178387607552?s=20&t=fFd-BcyCv4d0FRLzFkWNpw)
 2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 46/100: 27.10.22, Thursday
+**Info**: Code Time 10h (active 9h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial START
+- The Net Ninja tutorials: Full Modern React Tutorial
+- portfolio 2nd project NFT Marketplace - d3: Next.js front-end using Moralis server
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585811152512389120?s=20&t=qqFepQpqoD9h1fNQ9A3WOw)
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
