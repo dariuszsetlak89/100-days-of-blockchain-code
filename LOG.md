@@ -720,9 +720,24 @@
 **Progress**:
 - The Net Ninja tutorials: Modern JavaScript Tutorial START
 - The Net Ninja tutorials: Full Modern React Tutorial
-- portfolio 2nd project NFT Marketplace - d3: Next.js front-end using Moralis server
+- portfolio 2nd project NFT Marketplace - d3: Next.js Moralis front-end
 
 **Links**: 
-1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585811152512389120?s=20&t=qqFepQpqoD9h1fNQ9A3WOw)
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585811152512389120?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 47/100: 28.10.22, Friday
+**Info**: Code Time 10h (active 9h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial
+- The Net Ninja tutorials: Full Modern React Tutorial
+- portfolio 2nd project NFT Marketplace - d4: Next.js Moralis front-end
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586179394892369920?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
 2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
