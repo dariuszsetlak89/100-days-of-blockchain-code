@@ -730,7 +730,7 @@
 ---
 
 ### Day 47/100: 28.10.22, Friday
-**Info**: Code Time 10h (active 9h)
+**Info**: Code Time 6h (active 5h)
 
 **Progress**:
 - The Net Ninja tutorials: Modern JavaScript Tutorial
@@ -741,3 +741,23 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586179394892369920?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
 2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 48/100: 29.10.22, Saturday
+**Info**: Code Time 11h (active 9h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial
+- The Net Ninja tutorials: Full Modern React Tutorial
+- reading Moralis, The Graph, Pinata and NFT.Storage documentation
+- portfolio 2nd project NFT Marketplace - d5: Next.js The Graph front-end
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586503185375850497?s=20&t=A2ZzkCuO2LZ-B43VHSj4Yg)
+2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+4. Moralis documentation: [Moralis](https://docs.moralis.io/)
+5. The Graph documentation: [TheGraph](https://thegraph.com/docs/en/)
+6. Pinata documentation: [Pinata](https://docs.pinata.cloud/)
+7. NFT.Storage documentation: [NFT.Storage](https://nft.storage/docs/)
