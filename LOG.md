@@ -724,7 +724,7 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585811152512389120?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
-2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ---
@@ -739,7 +739,7 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586179394892369920?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
-2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ---
@@ -755,7 +755,7 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586503185375850497?s=20&t=A2ZzkCuO2LZ-B43VHSj4Yg)
-2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 4. Moralis documentation: [Moralis](https://docs.moralis.io/)
 5. The Graph documentation: [TheGraph](https://thegraph.com/docs/en/)
@@ -775,4 +775,17 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586908717294952448?s=20&t=zqrAVTzHoucyxgWRxYiYzg)
-2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
+
+---
+
+### Day 50/100: 31.10.22, Monday
+**Info**: Code Time 3h (active 2h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial
+- portfolio 3rd project: Decentralized Lottery - d2: Solidity smart contract unit tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1587209323796733952?s=20&t=libclSgi0MYOnAye4XUvew)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
