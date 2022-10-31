@@ -724,7 +724,7 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1585811152512389120?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
-2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ---
@@ -739,7 +739,7 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586179394892369920?s=20&t=yAxEM1go2URZ3tIM2vz2EA)
-2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ---
@@ -755,9 +755,24 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586503185375850497?s=20&t=A2ZzkCuO2LZ-B43VHSj4Yg)
-2. The Net Ninja tutorial: [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 4. Moralis documentation: [Moralis](https://docs.moralis.io/)
 5. The Graph documentation: [TheGraph](https://thegraph.com/docs/en/)
 6. Pinata documentation: [Pinata](https://docs.pinata.cloud/)
 7. NFT.Storage documentation: [NFT.Storage](https://nft.storage/docs/)
+
+---
+
+### Day 49/100: 30.10.22, Sunday
+**Info**: Code Time 9h (active 8h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial
+- portfolio 1st project: Snake Game Dapp - d34: smart contracts upload to Goerli testnet
+- portfolio 2nd project: NFT Marketplace - d6: smart contracts upload to Goerli testnet
+- portfolio 3rd project: Decentralized Lottery - d1 START Solidity smart contract
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1586908717294952448?s=20&t=zqrAVTzHoucyxgWRxYiYzg)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
