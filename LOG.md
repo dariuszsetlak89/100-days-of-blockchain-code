@@ -789,3 +789,17 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1587209323796733952?s=20&t=libclSgi0MYOnAye4XUvew)
 2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
+
+---
+
+### Day 51/100: 01.11.22, Tuesday
+**Info**: Code Time 7h (active 5h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern JavaScript Tutorial
+- portfolio 1st project: Snake Game Dapp - d35: The Snake Game
+- portfolio 3rd project: Decentralized Lottery - d3: Front-end in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1587721884052905984?s=20&t=AzeyKuA_oO-OXS4bFpZbAg)
+2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
