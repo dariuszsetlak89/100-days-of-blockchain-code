@@ -818,3 +818,17 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1588099747042267136?s=20&t=krtgavWrZ9FrMV2HWQSvLw)
 2. The Net Ninja tutorial: [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
+---
+
+### Day 53/100: 03.11.22, Thursday
+**Info**: Code Time 3h (active 2h)
+
+**Progress**:
+- The Net Ninja tutorials: Async JS, React
+- portfolio 1st project: Snake Game Dapp - d37: The Snake Game
+- portfolio 3rd project: Decentralized Lottery - d5: smart contract upgrade
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1588441762615402499?s=20&t=wTQcD9CJfCpMkHKYLHw5Yw)
+2. The Net Ninja tutorial: [Asynchronous JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
