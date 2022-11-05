@@ -832,3 +832,18 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1588441762615402499?s=20&t=wTQcD9CJfCpMkHKYLHw5Yw)
 2. The Net Ninja tutorial: [Asynchronous JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
 3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+---
+
+### Day 54/100: 04.11.22, Friday
+**Info**: Code Time 13h (active 12h)
+
+**Progress**:
+- The Net Ninja tutorials: Modern React Tutorial FINISHED
+- The Net Ninja tutorials: Async JS tutorial
+- portfolio 3rd project: Decentralized Lottery - d6: front-end in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1588844487266435072?s=20&t=xmf8V5VNSp7dEwSQ0EAV-A)
+2. The Net Ninja tutorial: [Asynchronous JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+3. The Net Ninja tutorial: [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
