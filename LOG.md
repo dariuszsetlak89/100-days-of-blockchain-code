@@ -861,3 +861,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1589200223938969601?s=20&t=gAjhdjqSX3gBv23YDrKOCQ)
 2. The Net Ninja tutorial: [Asynchronous JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+
+---
+
+### Day 56/100: 06.11.22, Sunday
+**Info**: Code Time 7h (active 6h)
+
+**Progress**:
+- The Net Ninja: Tailwind CSS tutorial START
+- portfolio 3rd project: Decentralized Lottery - d7: front-end in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1589349354795851776?s=20&t=r60ObL3Z5KdvkhYgsD7k4A)
+2. The Net Ninja tutorial: [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
