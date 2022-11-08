@@ -874,3 +874,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1589349354795851776?s=20&t=r60ObL3Z5KdvkhYgsD7k4A)
 2. The Net Ninja tutorial: [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+
+---
+
+### Day 57/100: 07.11.22, Monday
+**Info**: Code Time 9h (active 7h)
+
+**Progress**:
+- The Net Ninja: Tailwind CSS tutorial
+- portfolio 3rd project: Decentralized Lottery - d8: front-end in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1589918814762041345?s=20)
+2. The Net Ninja tutorial: [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
