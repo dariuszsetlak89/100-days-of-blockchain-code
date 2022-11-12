@@ -926,3 +926,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1590970885912944640?s=20&t=9B_j0pa3gmVbocZrygjZhg)
 2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+---
+
+### Day 61/100: 11.11.22, Friday
+**Info**: Code Time 2h (active 2h)
+
+**Progress**:
+- The Net Ninja: Node.js Crash Course Tutorial
+- portfolio 2rd project: NFT Marketplace - d8: front-end in Next.js
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1591374666274598914?s=20&t=G7NZuETgxIfZ0hVP5-5b5w)
+2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
