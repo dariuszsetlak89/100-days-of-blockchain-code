@@ -939,3 +939,15 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1591374666274598914?s=20&t=G7NZuETgxIfZ0hVP5-5b5w)
 2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+---
+
+### Day 62/100: 12.11.22, Saturday
+**Info**: Code Time 9h (active 8h)
+
+**Progress**:
+- portfolio 2rd project: NFT Marketplace - d9: front-end in Next.js with The Graph
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1591829148821258242?s=20&t=I9arWBGR-5xEB15CE90AlA)
+2. The Graph indexing protocol: [The Graph](https://thegraph.com/)
