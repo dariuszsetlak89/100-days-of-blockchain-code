@@ -965,3 +965,19 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1592279338732453888?s=20&t=OyJthkkdSb-zLupzUpHeOg)
 2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 3. The Graph indexing protocol: [The Graph](https://thegraph.com/)
+
+---
+
+### Day 64/100: 14.11.22, Monday
+**Info**: Code Time 10h (active 8h)
+
+**Progress**:
+- The Net Ninja: Node.js Crash Course Tutorial
+- The Net Ninja: TypeScript Tutorial START
+- portfolio 2rd project: NFT Marketplace - d11: front-end in Next.js with The Graph events indexer
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1592471119927599104?s=20&t=JHrddYNHzZChHYJ26P0LIA)
+2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+3. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+4. The Graph indexing protocol: [The Graph](https://thegraph.com/)
