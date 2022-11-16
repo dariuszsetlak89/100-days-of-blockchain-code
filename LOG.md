@@ -981,3 +981,16 @@
 2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 3. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 4. The Graph indexing protocol: [The Graph](https://thegraph.com/)
+
+---
+
+### Day 65/100: 15.11.22, Tuesday
+**Info**: Code Time 13h (active 11h)
+
+**Progress**:
+- The Net Ninja: TypeScript Tutorial
+- portfolio 2rd project: NFT Marketplace - d12: FINISHED
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1592790829139374081?s=20&t=6XyBZMLqUQZme4Wjz6zPXQ)
+2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
