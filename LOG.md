@@ -992,5 +992,19 @@
 - portfolio 2rd project: NFT Marketplace - d12: FINISHED
 
 **Links**: 
-1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1592790829139374081?s=20&t=6XyBZMLqUQZme4Wjz6zPXQ)
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1592792018413326337?s=20&t=ljBPhM_N5rVvG-pKg4ZJaw)
 2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+
+---
+
+### Day 66/100: 16.11.22, Wednesday
+**Info**: Code Time 14h (active 11h)
+
+**Progress**:
+- The Net Ninja: TypeScript Tutorial
+- portfolio 3rd project: Decentralized Lottery Dapp - final project improvements & deployment on Goerli and Vercel
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593197189840666624?s=20&t=ljBPhM_N5rVvG-pKg4ZJaw)
+2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+3. Vercel hosting platform: [Vercel](https://vercel.com/)
