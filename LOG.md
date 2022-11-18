@@ -1008,3 +1008,17 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593197189840666624?s=20&t=ljBPhM_N5rVvG-pKg4ZJaw)
 2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 3. Vercel hosting platform: [Vercel](https://vercel.com/)
+
+---
+
+### Day 67/100: 17.11.22, Thursday
+**Info**: Code Time 12h (active 9h)
+
+**Progress**:
+- The Net Ninja: TypeScript Tutorial FINISHED
+- portfolio 2rd project: NFT Marketplace Dapp - final project improvements & deployment on Goerli and Vercel
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593432143354634240?s=20&t=s9Vkst--pCcQFyPUAvGY6g)
+2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+3. Vercel hosting platform: [Vercel](https://vercel.com/)
