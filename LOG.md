@@ -1022,3 +1022,16 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593432143354634240?s=20&t=s9Vkst--pCcQFyPUAvGY6g)
 2. The Net Ninja tutorial: [TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 3. Vercel hosting platform: [Vercel](https://vercel.com/)
+
+---
+
+### Day 68/100: 18.11.22, Friday
+**Info**: Code Time 10h (active 7h)
+
+**Progress**:
+- Moblio: kurs PostgreSQL START
+- portfolio 1st project: Snake Game Dapp - d38: Solidity smart contract rebuild - project rebuild, simplification and new game economy
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593921992792707078?s=20&t=tJNV5utH1SfwWvAQMvGDiw)
+2. Moblio tutorial: [PostgreSQL](https://www.youtube.com/playlist?list=PLavRpT5VJEEudl3xllJWH4DmepFugZGK0)
