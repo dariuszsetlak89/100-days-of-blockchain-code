@@ -1035,3 +1035,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1593921992792707078?s=20&t=tJNV5utH1SfwWvAQMvGDiw)
 2. Moblio tutorial: [PostgreSQL](https://www.youtube.com/playlist?list=PLavRpT5VJEEudl3xllJWH4DmepFugZGK0)
+
+---
+
+### Day 69/100: 19.11.22, Saturday
+**Info**: Code Time 10h (active 10h)
+
+**Progress**:
+- Moblio: kurs PostgreSQL START
+- portfolio 1st project: Snake Game Dapp - d39: Project rebuild - Solidity smart contract and deployment scripts
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1594292948182581249?s=20&t=YHpzJhMMIFNycU1duoc-fQ)
+2. Moblio tutorial: [PostgreSQL](https://www.youtube.com/playlist?list=PLavRpT5VJEEudl3xllJWH4DmepFugZGK0)
