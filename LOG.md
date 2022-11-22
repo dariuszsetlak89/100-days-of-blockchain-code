@@ -1061,3 +1061,17 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1594716648312815616?s=20&t=p7UOdqwYw-uYsGOuuUUZfA)
 2. Moblio tutorial: [PostgreSQL](https://www.youtube.com/playlist?list=PLavRpT5VJEEudl3xllJWH4DmepFugZGK0)
+
+---
+
+### Day 71/100: 21.11.22, Monday
+**Info**: Code Time 8h (active 6h)
+
+**Progress**:
+- The Net Ninja: Node.js Crash Course Tutorial FINISHED
+- portfolio 1st project: Snake Game Dapp - d41: Project rebuild - Solidity test scripts, bugs fixing
+- preparation of resume and portfolio website
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595026471734624257?s=20&t=rlyHA16JMzDkAqiPA6_mDg)
+2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
