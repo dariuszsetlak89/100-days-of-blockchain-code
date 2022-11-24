@@ -1075,3 +1075,21 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595026471734624257?s=20&t=rlyHA16JMzDkAqiPA6_mDg)
 2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
+---
+
+### Day 72/100: 22.11.22, Tuesday
+**Info**: Code Time 8h (active 6h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial START
+- preparing CV in LaTeX
+- preparing portfolio website
+
+#100DaysOfCode
+#100DaysOfBlockchainCode
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595407392501530626?s=20&t=z_-mcoUp4CLey69PfwSy7w)
+2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+3. Latex: [Latex Project](https://www.latex-project.org/)
