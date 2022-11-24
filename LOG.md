@@ -1091,5 +1091,18 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595407392501530626?s=20&t=z_-mcoUp4CLey69PfwSy7w)
-2. The Net Ninja tutorial: [Node.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-3. Latex: [Latex Project](https://www.latex-project.org/)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+3. Latex: [The Latex Project](https://www.latex-project.org/)
+
+---
+
+### Day 73/100: 23.11.22, Wednesday
+**Info**: Code Time 6h (active 3h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial
+- portfolio 3rd project: Decentralized Lottery Dapp - preparing unit tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595743284772720641?s=20&t=z_-mcoUp4CLey69PfwSy7w)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
