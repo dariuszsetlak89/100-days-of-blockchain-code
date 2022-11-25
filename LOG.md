@@ -1106,3 +1106,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1595743284772720641?s=20&t=z_-mcoUp4CLey69PfwSy7w)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+---
+
+### Day 74/100: 24.11.22, Wednesday
+**Info**: Code Time 14h (active 11h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial
+- portfolio 3rd project: Decentralized Lottery Dapp - preparing and running staging test
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596132898708545537?s=20&t=zCfsbH_LghY-2cqTXox_-g)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
