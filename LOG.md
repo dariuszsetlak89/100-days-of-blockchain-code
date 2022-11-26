@@ -1109,7 +1109,7 @@
 
 ---
 
-### Day 74/100: 24.11.22, Wednesday
+### Day 74/100: 24.11.22, Thursday
 **Info**: Code Time 14h (active 11h)
 
 **Progress**:
@@ -1118,4 +1118,17 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596132898708545537?s=20&t=zCfsbH_LghY-2cqTXox_-g)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+---
+
+### Day 75/100: 25.11.22, Friday
+**Info**: Code Time 2h (active 1h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial
+- portfolio 1st project: Snake Game Dapp - d42: Project rebuild - Solidity access control issue
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596454516379258880?s=20&t=5WfGCxqM7lwjT1Lw6ET14Q)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
