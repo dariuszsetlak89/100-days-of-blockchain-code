@@ -1132,3 +1132,18 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596454516379258880?s=20&t=5WfGCxqM7lwjT1Lw6ET14Q)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+---
+
+### Day 76/100: 26.11.22, Saturday
+**Info**: Code Time 3h (active 2h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial
+- The Net Ninja: Python 3 Tutorial for Beginners START
+- portfolio 1st project: Snake Game Dapp - d43: Project rebuild - Solidity unit tests
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596674364115931137?s=20&t=7M9RWeN6F0FSb4rMLCKrAA)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+3. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
