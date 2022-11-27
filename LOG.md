@@ -1147,3 +1147,14 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596674364115931137?s=20&t=7M9RWeN6F0FSb4rMLCKrAA)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 3. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+---
+
+### Day 77/100: 27.11.22, Sunday
+**Info**: Code Time 6h (active 6h)
+
+**Progress**:
+- portfolio 1st project: Snake Game Dapp - d44: Next.js new layout
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1596979643860799488?s=20&t=7p0ZTOD6-G3cT0_YZL2KRg)
