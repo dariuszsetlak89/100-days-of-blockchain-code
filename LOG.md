@@ -1184,3 +1184,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1597718789810180096?s=20&t=34NU22M0TIF0swvFO4BaOg)
 2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+---
+
+### Day 80/100: 30.11.22, Wednesday
+**Info**: Code Time 3h (active 3h)
+
+**Progress**:
+- The Net Ninja: Python 3 Tutorial for Beginners
+- portfolio 1st project: Snake Game Dapp - d47: Next.js front-end - Player page
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1598163005816332288?s=20&t=T4FxDXZe3bTQWPVFtbneAg)
+2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
