@@ -1179,7 +1179,7 @@
 
 **Progress**:
 - The Net Ninja: Python 3 Tutorial for Beginners
-- portfolio 1st project: Snake Game Dapp - d46: Next.js front-end - Snake Game page
+- portfolio 1st project: Snake Game Dapp - d46: Next.js front-end - Play game page
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1597718789810180096?s=20&t=34NU22M0TIF0swvFO4BaOg)
@@ -1192,7 +1192,7 @@
 
 **Progress**:
 - The Net Ninja: Python 3 Tutorial for Beginners
-- portfolio 1st project: Snake Game Dapp - d47: Next.js front-end - Player page
+- portfolio 1st project: Snake Game Dapp - d47: Next.js front-end - Player panel page
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1598163005816332288?s=20&t=T4FxDXZe3bTQWPVFtbneAg)
@@ -1204,7 +1204,7 @@
 **Info**: Code Time 9h (active 8h)
 
 **Progress**:
-- portfolio 1st project: Snake Game Dapp - d48: Next.js front-end - Player page
+- portfolio 1st project: Snake Game Dapp - d48: Next.js front-end - Player panel page
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1598644345418063872?s=20&t=RfQtsWR__gV_uiE_fDtnSw)
@@ -1216,8 +1216,21 @@
 
 **Progress**:
 - The Net Ninja: Python 3 Tutorial for Beginners
-- portfolio 1st project: Snake Game Dapp - d49: Next.js front-end - Player page finished
+- portfolio 1st project: Snake Game Dapp - d49: Next.js front-end - Player panel page finished
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1598955378510680066?s=20&t=IPP1PGN63P9yHatPsf2ZaA)
+2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+---
+
+### Day 83/100: 03.12.22, Saturday
+**Info**: Code Time 7h (active 6h)
+
+**Progress**:
+- The Net Ninja: Python 3 Tutorial for Beginners
+- portfolio 1st project: Snake Game Dapp - d50: Next.js front-end - Game panel page finished
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1599357543020494848?s=20&t=Y38fvgzb9WiCAaHxrTMpdA)
 2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
