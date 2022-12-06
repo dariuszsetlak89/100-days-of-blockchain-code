@@ -1247,3 +1247,15 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1599832558786605056?s=20&t=kh-V2x5-hegMkRHnR69yUw)
 2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+---
+
+### Day 85/100: 05.12.22, Monday
+**Info**: Code Time 5h (active 4h)
+
+**Progress**:
+- The Net Ninja: Python 3 Tutorial for Beginners FINISHED
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600162521565974531?s=20&t=WFZZ2X44AzYDOjOCY7kiAA)
+2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
