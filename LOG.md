@@ -1259,3 +1259,16 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600162521565974531?s=20&t=WFZZ2X44AzYDOjOCY7kiAA)
 2. The Net Ninja tutorial: [Python 3 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+---
+
+### Day 86/100: 06.12.22, Tuesday
+**Info**: Code Time 7h (active 5h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial
+- portfolio 1st project: Snake Game Dapp - d52: smart contract deployment on Goerli testnet and front-end hosting on Vercel - testing the game
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600162521565974531?s=20&t=O8hScM_SEhKlV_VylLuMcQ)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
