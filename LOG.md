@@ -1272,3 +1272,15 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600162521565974531?s=20&t=O8hScM_SEhKlV_VylLuMcQ)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+---
+
+### Day 87/100: 07.12.22, Wednesday
+**Info**: Code Time 1h (active 1h)
+
+**Progress**:
+- The Net Ninja: Complete MongoDB Tutorial FINISHED
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600869617425010688?s=20&t=iEI2rpxewXYY2_zNzmzmrA)
+2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
