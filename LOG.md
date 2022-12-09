@@ -1284,3 +1284,15 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1600869617425010688?s=20&t=iEI2rpxewXYY2_zNzmzmrA)
 2. The Net Ninja tutorial: [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+---
+
+### Day 88/100: 08.12.22, Thursday
+**Info**: Code Time 1h (active 1h)
+
+**Progress**:
+- The Net Ninja: Django Tutorial START
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1601171983445929984?s=20&t=g0XBsNbam07Z2R4gwKji1g)
+2. The Net Ninja tutorial: [Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
