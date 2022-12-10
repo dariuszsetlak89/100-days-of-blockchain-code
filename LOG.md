@@ -1296,3 +1296,19 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1601171983445929984?s=20&t=g0XBsNbam07Z2R4gwKji1g)
 2. The Net Ninja tutorial: [Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+
+---
+
+### Day 89/100: 09.12.22, Friday
+**Info**: Code Time 3h (active 2h)
+
+**Progress**:
+- The Net Ninja: Django Tutorial
+- Jak nauczyć się programowania: Python - podstawy w 2h
+- LeetCode 75 study plan
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1601398102581284864?s=20&t=-KYb6j4_hwJVZ-AoT8Tv2g)
+2. The Net Ninja tutorial: [Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+3. Jak nauczyć się programowania: [Python - podstawy w 2h](https://www.youtube.com/watch?v=BBu6ZoAHIwI)
+4. LeetCode: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=x0o2toai)
