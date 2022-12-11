@@ -1312,3 +1312,17 @@
 2. The Net Ninja tutorial: [Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
 3. Jak nauczyć się programowania: [Python - podstawy w 2h](https://www.youtube.com/watch?v=BBu6ZoAHIwI)
 4. LeetCode: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=x0o2toai)
+
+---
+
+### Day 90/100: 10.12.22, Saturday
+**Info**: Code Time 5h (active 0h)
+
+**Progress**:
+- LeetCode 75 study plan
+- TikEd tutorial: Algorytmika i Programowanie
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1601880543603396609?s=20&t=sc4jNg7Q-ViFB-g4ZYx1Cg)
+2. LeetCode: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=x0o2toai)
+3. TikEd tutorial: [Algorytmika i Programowanie](https://www.youtube.com/playlist?list=PLupAQRy_4upI89UgfwjnORI0rQBd9axKv)
