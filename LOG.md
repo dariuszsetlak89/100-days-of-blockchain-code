@@ -1326,3 +1326,17 @@
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1601880543603396609?s=20&t=sc4jNg7Q-ViFB-g4ZYx1Cg)
 2. LeetCode: [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=x0o2toai)
 3. TikEd tutorial: [Algorytmika i Programowanie](https://www.youtube.com/playlist?list=PLupAQRy_4upI89UgfwjnORI0rQBd9axKv)
+
+---
+
+### Day 91/100: 11.12.22, Sunday
+**Info**: Code Time 4h (active 3h)
+
+**Progress**:
+- Jak nauczyć się programowania: Python - 5 projektów w 2h
+- freeCodeCamp: Data Structures and Algorithms in Python
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602235009376698368?s=20&t=PBTb5CGjy2lvItj8IM2V8w)
+2. Jak nauczyć się programowania: [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY&t=4s)
+3. freeCodeCamp: [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)
