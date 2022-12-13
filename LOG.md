@@ -1338,5 +1338,18 @@
 
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602235009376698368?s=20&t=PBTb5CGjy2lvItj8IM2V8w)
-2. Jak nauczyć się programowania: [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY&t=4s)
+2. Jak nauczyć się programowania: [Python - 5 projektów w 2h](https://www.youtube.com/watch?v=EFaPsPwPJAY)
 3. freeCodeCamp: [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+
+---
+
+### Day 92/100: 12.12.22, Monday
+**Info**: Code Time 5h (active 0h)
+
+**Progress**:
+- Jovian: Data Structures and Algorithms in Python - Lesson 1 Binary Search, Linked Lists and Complexity
+- learn Python
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602615204357062656?s=20&t=zDG_2GW-l2uusD_VyDrZjA)
+2. Jovian: [Data Structures and Algorithms](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
