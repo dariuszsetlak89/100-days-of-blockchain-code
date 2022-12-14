@@ -1353,3 +1353,21 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602615204357062656?s=20&t=zDG_2GW-l2uusD_VyDrZjA)
 2. Jovian: [Data Structures and Algorithms](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+
+---
+
+### Day 93/100: 13.12.22, Tuesday
+**Info**: Code Time 5h (active 1h)
+
+**Progress**:
+- Jovian: Data Structures and Algorithms - Lesson 1 Binary Search, Linked Lists and Complexity
+- TikEd: Kurs Python
+- Jak nauczyć się programowania: Python
+- LeetCode: Top Interview Questions - easy collection
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602845627691536385?s=20&t=pJ1gXoEdhLjgKvKpjbUpVQ)
+2. Jovian: [Data Structures and Algorithms](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+3. TikEd: [Kurs Python](https://www.youtube.com/playlist?list=PLupAQRy_4upJtmVUysbYnv04Go5rAdb1g)
+4. Jak naucyzć się programowania: [Python](https://www.youtube.com/playlist?list=PLp9WLfHXxbce6FEB9bk5sjdptTGI7ybOM)
+5. LeetCode: [Top Interview Questions - easy collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
