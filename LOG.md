@@ -1371,3 +1371,18 @@
 3. TikEd: [Kurs Python](https://www.youtube.com/playlist?list=PLupAQRy_4upJtmVUysbYnv04Go5rAdb1g)
 4. Jak naucyzć się programowania: [Python](https://www.youtube.com/playlist?list=PLp9WLfHXxbce6FEB9bk5sjdptTGI7ybOM)
 5. LeetCode: [Top Interview Questions - easy collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
+
+---
+
+### Day 94/100: 14.12.22, Wednesday
+**Info**: Code Time 5h (active 1h)
+
+**Progress**:
+- The Net Ninja: Git & GitHub Tutorial for Beginners
+- kakaboc: Algorytmy - youtube tutorial
+- LeetCode: Top Interview Questions - easy collection
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602845627691536385?s=20&t=pJ1gXoEdhLjgKvKpjbUpVQ)
+2. kakaboc: [Algorytmy - youtube tutorial](https://www.youtube.com/playlist?list=PL0NHOHZVAjfCioTcerGybx123MRMFBS5w)
+3. LeetCode: [Top Interview Questions - easy collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
