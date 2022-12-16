@@ -1383,6 +1383,23 @@
 - LeetCode: Top Interview Questions - easy collection
 
 **Links**: 
-1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1602845627691536385?s=20&t=pJ1gXoEdhLjgKvKpjbUpVQ)
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1603477749603131414?s=20&t=BVzrP0MlKbjwTL-Psmqo6g)
 2. kakaboc: [Algorytmy - youtube tutorial](https://www.youtube.com/playlist?list=PL0NHOHZVAjfCioTcerGybx123MRMFBS5w)
 3. LeetCode: [Top Interview Questions - easy collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
+
+---
+
+### Day 95/100: 15.12.22, Thursday
+**Info**: Code Time 5h (active 2h)
+
+**Progress**:
+- improving my resume and portfolio website
+- learning algorithms
+- technical interview
+
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1603883285167230978?s=20&t=BVzrP0MlKbjwTL-Psmqo6g)
+
+
+
+
