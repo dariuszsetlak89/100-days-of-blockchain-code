@@ -1400,6 +1400,13 @@
 **Links**: 
 1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1603883285167230978?s=20&t=BVzrP0MlKbjwTL-Psmqo6g)
 
+---
 
+### Day 96/100: 16.12.22, Friday
+**Info**: Code Time 2h (active 2h)
 
+**Progress**:
+- Scrimba: Learn JavaScript for free
 
+**Links**: 
+1. Daily Tweet: [Tweet](https://twitter.com/kprogramista89/status/1604246383258894336?s=20&t=jWMtSvM9tGmNzHlFILup5w)
